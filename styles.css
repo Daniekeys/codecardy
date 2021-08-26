@@ -116,7 +116,7 @@ border: none;
 /* For the right side */
 
 .right-side{
- background: linear-gradient(rgba(0,0,0, .5), rgba(0,0,0, .7)), url('./images/background-img.png');
+ background: linear-gradient(rgba(0,0,0, .5), rgba(0,0,0, .7)), url('https://res.cloudinary.com/www-daniekeys-com/image/upload/v1629957953/background-img_ynmntw.png');
  height: auto;
  width: 100%;
  padding: 2rem 0;
